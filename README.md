@@ -3,8 +3,8 @@
 ## Requirements for inspectrum:
 * cmake >= 3.1 (explicitly installed this and ninja)
 * fftw 3.x	(explicitly installed)
-* liquid-dsp >= v1.3.0
-* pkg-config (I did not explicitly install this)
+* liquid-dsp >= v1.3.0 (found pre-compiled libraries)
+* pkg-config (did not explicitly install this)
 * qt5 (explicitly installed the static library)
 
 
