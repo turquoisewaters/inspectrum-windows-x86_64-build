@@ -26,8 +26,8 @@ Get liquid-dsp precomplied library below and copy the header and library files i
 
 ```
 git clone https://github.com/cjcliffe/CubicSDR.git
-cp C:\msys64\home\craig\CubicSDR\external\liquid-dsp\include\liquid\liquid.h C:\msys64\mingw64\include
-cp C:\msys64\home\craig\CubicSDR\external\liquid-dsp\gcc\64\libliquid.a C:\msys64\mingw64\lib
+cp C:\msys64\home\<user>\CubicSDR\external\liquid-dsp\include\liquid\liquid.h C:\msys64\mingw64\include
+cp C:\msys64\home\<user>\CubicSDR\external\liquid-dsp\gcc\64\libliquid.a C:\msys64\mingw64\lib
 ```
 
 
